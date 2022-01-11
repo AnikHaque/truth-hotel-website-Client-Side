@@ -21,7 +21,7 @@ const About = () => {
     <Container>
   <Row>
     <Col xs={12} sm={12} md={12} lg={12}>
-        <img src='http://demo2.themelexus.com/erios/wp-content/uploads/elementor/thumbs/home1_erios01-oi3iurl7hi42p6iwwud5qx914wvlujy9epdncooseo.jpg' className='img-fluid aboutimage1'></img>
+        <img src='https://ibb.co/1qV03vX' className='img-fluid aboutimage1'></img>
     </Col>
   </Row>
 </Container>
