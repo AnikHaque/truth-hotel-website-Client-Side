@@ -6,7 +6,7 @@ const MyOrder = () => {
     const [rooms, setRooms] = useState([])
     const {user} = useAuth();
     useEffect(() => {
-        fetch(`http://localhost:5000/room?email=${user.email}`)
+        fetch(`https://infinite-spire-72927.herokuapp.com/room?email=${user.email}`)
             .then(res => res.json())
             .then(data => setRooms(data));
     }, [])

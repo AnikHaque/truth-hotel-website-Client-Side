@@ -12,7 +12,7 @@ const handleAddHotel = e => {
     const image = imageRef.current.value;
     const price = priceRef.current.value;
     const newHotel = {name,description,image,price};
-    fetch('http://localhost:5000/hotels',{
+    fetch('https://infinite-spire-72927.herokuapp.com/hotels',{
         method:'POST',
         headers:{
             'content-type':"application/json"

@@ -16,7 +16,7 @@ const headingService={
     const { register, handleSubmit, reset } = useForm();
     const onSubmit = data =>{
         console.log(data);
-        axios.post("http://localhost:5000/room",data)
+        axios.post("https://infinite-spire-72927.herokuapp.com/room",data)
         .then(res=>{
             if(res.data.insertedId){
                 alert("Added Successfully");
@@ -28,7 +28,7 @@ const headingService={
       const {id} = useParams();
      const [hotel,setHotel] = useState({})
       useEffect(()=>{
-          fetch(`http://localhost:5000/hotels/${id}`)
+          fetch(`https://infinite-spire-72927.herokuapp.com/hotels/${id}`)
         .then(res=>res.json())
          .then(data=>setHotel(data))
 
