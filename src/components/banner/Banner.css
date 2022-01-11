@@ -1,0 +1,25 @@
+.banner1{
+    background-image: url('../../images/rev_slidehome1_1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+.banner2{
+    background-image: url('../../images/rev_slidehome2_3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+.banner3{
+    background-image: url('../../images/rev_slidehome2_3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+.banner-title-image{
+    margin-top: 130px;
+}
+

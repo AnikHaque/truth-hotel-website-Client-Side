@@ -1,0 +1,23 @@
+.join1{
+    
+        background-image: url('../../images/maxresdefault.webp');
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 90vh;
+        background-position: center;
+
+}
+.join{
+    font-size: 150px;
+    color: aliceblue;
+    padding-top: 150px;
+}
+.about-button{
+    background-color: #e4a853;
+    padding: 20px;
+    padding-left: 55px;
+    padding-right: 55px;
+    border-radius: 5%;
+    margin-left: 40px;
+    color: aliceblue;
+}

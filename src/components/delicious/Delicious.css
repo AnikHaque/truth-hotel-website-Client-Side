@@ -1,0 +1,15 @@
+.aboutimage1{
+    height: 500px;
+    width:100%;
+}
+.about-title{
+    font-size: 60px;
+}
+.about-button{
+    background-color: #e4a853;
+    padding: 20px;
+    padding-left: 55px;
+    padding-right: 55px;
+    border-radius: 5%;
+    margin-left: 50px;
+}

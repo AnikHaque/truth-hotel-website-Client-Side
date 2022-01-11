@@ -1,0 +1,53 @@
+.attraction1{
+    background-image: url('../../images/rev_slider_carousel1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+.banner2{
+    background-image: url('../../images/rev_slidehome2_3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+.banner3{
+    background-image: url('../../images/rev_slidehome2_3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+.banner-title-image{
+    margin-top: 130px;
+}
+.attractionimg1{
+    background-image: url('../../images/rev_slider_carousel1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+   
+}
+.attractionimg{
+    background-image: url('../../images/rev_slider_carousel2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+   
+}
+.attractionimg2{
+    background-image: url('../../images/rev_slider_carousel3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+   
+}
+.attractiondiv{
+    width: 380px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 150px;
+    
+   
+}
